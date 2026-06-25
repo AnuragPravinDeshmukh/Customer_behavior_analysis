@@ -78,7 +78,7 @@ This project addresses a critical core question:
 
 *Replace the placeholder image below with your actual exported Power BI screenshot once uploaded to your repository.*
 
-![Power BI Dashboard View](Images/dashboard.png)
+<img width="1357" height="737" alt="Customer_behavior_analysis" src="https://github.com/user-attachments/assets/ef92c503-fba5-4bee-8e75-99310f2f09cd" />
 
 ---
 
